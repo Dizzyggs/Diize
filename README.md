@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diize&label=Profile%20views&color=0e75b6&style=flat" alt="diize" /> </p>
 
-- 🔭 Develop for [Family Roleplay](www.familyrp.net)
+- 🔭 Developer for [Family Roleplay](www.familyrp.net)
 
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **dizzylol @ discord.**
 
-- ⚡ Fun fact,  **I get stuck in work easily.**
+- ⚡ Fun fact,  **Im a Swede, but rarely if ever develop within the FiveM community (yes, there's reasons why.)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
