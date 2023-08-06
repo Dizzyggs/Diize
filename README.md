@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diize&label=Profile%20views&color=0e75b6&style=flat" alt="diize" /> </p>
 
-- 🔭 I’m currently working on [family-rp](www.familyrp.net)
+- 🔭 Develop for [family-rp](www.familyrp.net)
 
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 
-- 💬 Ask me about **react, javascript, c#, php, sql**
+- 💬 Ask me about **JavaScript + React.js, lua, c#, php, sql**
 
-- 📫 How to reach me **dizzylol @ discord.**
+- 📫 How to reach me: **dizzylol @ discord.**
 
-- ⚡ Fun fact **I get stuck in work easily.**
+- ⚡ Fun fact,  **I get stuck in work easily.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
