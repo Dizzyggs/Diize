@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diize&label=Profile%20views&color=0e75b6&style=flat" alt="diize" /> </p>
 
-- 🔭 Develop for [family-rp](www.familyrp.net)
+- 🔭 Develop for [Family Roleplay](www.familyrp.net)
 
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 
