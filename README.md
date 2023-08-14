@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **dizzylol @ discord.**
 
-- ⚡ Fun fact,  **Im a Swede, but rarely if ever develop within the FiveM community (yes, there's reasons why.)**
+- ⚡ Fun fact,  **Im a Swede, but rarely if ever develop within the swedish FiveM community (yes, there's reasons why.)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
