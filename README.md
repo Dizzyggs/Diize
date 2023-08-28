@@ -5,9 +5,7 @@
 
 - 🔭 Developer for [Family Roleplay](www.familyrp.net)
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
-
-- 💬 Ask me about **JavaScript + React.js, lua, c#, php, sql**
+- 💬 **JavaScript + React.js, Typescript, lua, c#, php, sql**
 
 - 📫 How to reach me: **dizzylol @ discord.**
 
