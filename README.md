@@ -5,8 +5,6 @@
 
 - 🔭 Developer for [Family Roleplay](www.familyrp.net)
 
-- 💬 **JavaScript + React.js, Typescript, lua, c#, php, sql**
-
 - 📫 How to reach me: **dizzylol @ discord.**
 
 - ⚡ Even tho **Im a Swede, i rarely if ever develop within the swedish FiveM community (yes, there's reasons why.)**
