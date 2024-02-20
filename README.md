@@ -5,7 +5,7 @@
 
 - 🔭 Developer for [Family Roleplay](www.familyrp.net)
 
-- 📫 How to reach me: **dizzylol @ discord.**
+- 📫 How to reach me: **dizzyggs @ discord.**
 
 - ⚡ Even tho **Im a Swede, i rarely if ever develop within the swedish FiveM community (yes, there's reasons why.)**
 
